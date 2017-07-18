@@ -1,0 +1,166 @@
+@import url(https://fonts.googleapis.com/css?family=Codystar|Sacramento|Megrim|Poiret+One|Raleway);
+
+
+nav {
+  position: fixed;
+  	left: 0;
+  	top: 0;
+  	bottom: 0;
+  	background: black;
+  	width: 180px;
+  	padding: 10px;
+}
+
+#sidebar-initials {
+  font-family: 'Codystar', script;
+  font-size: 65px;
+  background: black;
+  text-align: center;
+  border: 5px solid white;
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+  color: white;
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  display: block;
+}
+
+#ul-nav {
+  font-family: 'Raleway', sans-serif;
+  list-style-type: none;
+  margin-top: 0px;
+  padding: 0;
+}
+
+li a {
+  font-family: 'Raleway', sans-serif;
+  display: block;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid white;
+  text-decoration: none;
+  color: white;
+}
+
+li a:hover {
+  background-color: #ffd1dc;
+  color: white;
+}
+
+#content {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/8b/d5/c6/8bd5c623d4387d79c4d7db3d7dd0cd27.png);
+  margin: 0 0 30px 210px;
+
+}
+
+#welcome {
+  font-family: 'Poiret One', serif;
+  font-size: 85px;
+  font-weight: bold;
+  text-align: center;
+  background-color:  black;
+  color: white;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-family: 'Megrim', cursive;
+  font-size: 35px;
+  color: white;
+  background-color: black;
+  padding: 10px 10px 10px 10px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  box-shadow: 10px 10px 5px #888888;
+
+}
+
+#h2-about {
+  max-width: 155px;
+}
+
+#h2-extra {
+  max-width: 275px;
+}
+
+#h2-work {
+  max-width: 150px;
+}
+
+#h2-contact {
+  max-width: 137px;
+}
+
+.fancy-p {
+  font-family: 'Raleway', sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 70px;
+  border-style: dotted;
+  border-color: white;
+  border-width: 6px;
+  padding: 10px 10px 10px 10px;
+  background: rgba(255,255,255,0.7);
+}
+
+#ul-extra {
+  font-family: 'Raleway', sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 70px;
+  border-style: dotted;
+  border-color: white;
+  border-width: 6px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgba(255,255,255,0.7);
+}
+
+.circular-square {
+  border: 7px solid #ffffff;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.center {
+  text-align: center;
+}
+
+iframe{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 0px;
+}
+
+.p-projects {
+  font-family: 'Raleway', sans-serif;
+  padding-left: 20px;
+}
+
+#project-stuff{
+  border-style: dotted;
+  border-color: white;
+  border-width: 6px;
+  background-color: rgba(255,255,255,0.7);
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 70px;
+  padding-bottom: 10px;
+}
